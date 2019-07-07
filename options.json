@@ -1,0 +1,1 @@
+{"vmax": 0.007, "vmin": 0.005, "vidle": 0.002, "depth_ratio": 0.2, "empty_frames": 15, "idle_frames": 15, "sensetivity_x": 3, "sensetivity_y": 2, "detection_threshold": -0.5, "detection_rate": 1, "tracking_image_width": 640, "tracking_image_height": 320, "detection_image_width": 320, "detection_image_height": 160}

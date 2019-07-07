@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='images\11718020-business-man-showing-stop-hand-gesture-isolated-on-white.jpg'>
+    <box top='107' left='88' width='417' height='493'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609546.jpg'>
+    <box top='118' left='105' width='60' height='66'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609547.jpg'>
+    <box top='17' left='220' width='65' height='72'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609549.jpg'>
+    <box top='197' left='184' width='118' height='120'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609550.jpg'>
+    <box top='44' left='20' width='126' height='133'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609560.jpg'>
+    <box top='318' left='379' width='105' height='116'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609563.jpg'>
+    <box top='318' left='241' width='102' height='108'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609566.jpg'>
+    <box top='145' left='460' width='107' height='112'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472880.jpg'>
+    <box top='234' left='437' width='76' height='84'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472881.jpg'>
+    <box top='70' left='539' width='71' height='71'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472882.jpg'>
+    <box top='85' left='72' width='75' height='84'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472883.jpg'>
+    <box top='294' left='65' width='78' height='93'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472888.jpg'>
+    <box top='82' left='402' width='42' height='52'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472890.jpg'>
+    <box top='286' left='537' width='48' height='54'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472893.jpg'>
+    <box top='261' left='188' width='55' height='57'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472894.jpg'>
+    <box top='52' left='35' width='58' height='63'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472896.jpg'>
+    <box top='187' left='587' width='52' height='60'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472897.jpg'>
+    <box top='84' left='526' width='46' height='51'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472903.jpg'>
+    <box top='11' left='506' width='31' height='34'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472904.jpg'>
+    <box top='308' left='487' width='31' height='30'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472905.jpg'>
+    <box top='295' left='344' width='32' height='40'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472906.jpg'>
+    <box top='170' left='337' width='31' height='38'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472907.jpg'>
+    <box top='45' left='256' width='29' height='33'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472909.jpg'>
+    <box top='3' left='75' width='36' height='42'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472910.jpg'>
+    <box top='298' left='68' width='40' height='45'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474561.jpg'>
+    <box top='213' left='419' width='91' height='109'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474562.jpg'>
+    <box top='73' left='89' width='90' height='116'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474563.jpg'>
+    <box top='302' left='47' width='100' height='117'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474564.jpg'>
+    <box top='103' left='44' width='96' height='116'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474566.jpg'>
+    <box top='188' left='71' width='53' height='59'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474567.jpg'>
+    <box top='82' left='7' width='56' height='64'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479590.jpg'>
+    <box top='137' left='107' width='111' height='124'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479591.jpg'>
+    <box top='68' left='266' width='113' height='141'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479592.jpg'>
+    <box top='46' left='282' width='129' height='149'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479593.jpg'>
+    <box top='32' left='15' width='135' height='149'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\17868549-three-mixed-hands-firmly-giving-quot-stop-quot-hand-signal.jpg'>
+    <box top='101' left='78' width='75' height='96'>
+      <label>hand</label>
+    </box>
+    <box top='56' left='261' width='94' height='116'>
+      <label>hand</label>
+    </box>
+    <box top='125' left='484' width='95' height='93'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\500_F_176725078_C6FnaCnokznjpTv9C7Qb4cLD3G2WHYdK.jpg'>
+    <box top='170' left='335' width='68' height='85'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\6108-06167802en_Masterfile.jpg'>
+    <box top='37' left='250' width='62' height='69'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\74155668-determined-young-woman-making-a-stop-gesture-with-the-palm-of-her-hand-glaring-at-the-camera-with-a-.jpg'>
+    <box top='117' left='97' width='245' height='272'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\78400532-prohibition-symbol-serious-female-shows-stop-sign-talk-to-hand-gesture-angry-full-of-negative-emotio.jpg'>
+    <box top='97' left='160' width='210' height='258'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\800px_COLOURBOX10511719.jpg'>
+    <box top='162' left='233' width='167' height='203'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\800px_COLOURBOX3519013.jpg'>
+    <box top='152' left='199' width='226' height='256'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\800px_COLOURBOX6560121.jpg'>
+    <box top='133' left='127' width='217' height='240'>
+      <label>hand</label>
+    </box>
+    <box top='112' left='494' width='237' height='269'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\81187338-prohibition-symbol-serious-female-shows-stop-sign-talk-to-hand-gesture-angry-full-of-negative-emotio.jpg'>
+    <box top='233' left='398' width='248' height='284'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\b0d5779b-8918-6e89-d01f-bc2aa421f3f8_1000.jpg'>
+    <box top='146' left='53' width='84' height='80'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\boy-showing-open-hand-signal-means-stop-wait-isolated-blurred-background-boy-showing-open-palm-stop-hand-signal-119657403.jpg'>
+    <box top='57' left='850' width='221' height='239'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\da772213-03f0-e466-1fa1-b7e0ef0b226e_1000.jpg'>
+    <box top='216' left='194' width='82' height='90'>
+      <label>hand</label>
+    </box>
+    <box top='201' left='57' width='82' height='90'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\depositphotos_183436610-stock-photo-girl-showing-stop-sign-or.jpg'>
+    <box top='130' left='355' width='330' height='344'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\depositphotos_201346710-stock-video-engineer-make-stop-hand-gestures.jpg'>
+    <box top='28' left='47' width='61' height='65'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\depositphotos_201902820-stock-photo-handsome-young-businessman-doing-stop.jpg'>
+    <box top='252' left='518' width='151' height='147'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\depositphotos_50950389-stock-photo-stern-doctor-holding-up-his.jpg'>
+    <box top='74' left='765' width='173' height='183'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\fghgf.jpg'>
+    <box top='116' left='67' width='78' height='85'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\forbidding-gesture-stop-13821334.jpg'>
+    <box top='22' left='774' width='364' height='346'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\hand-signal-to-stop-2731566.jpg'>
+    <box top='27' left='352' width='443' height='466'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\homme-main-levee-disant-stop_1194-827.jpg'>
+    <box top='48' left='372' width='82' height='94'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\jhgjgh.jpg'>
+    <box top='76' left='290' width='67' height='75'>
+      <label>hand</label>
+    </box>
+    <box top='78' left='115' width='70' height='71'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\jhgjhgu.jpg'>
+    <box top='568' left='519' width='242' height='282'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\la-mujer-rubia-sosteniendo-la-mano-diciendo-parada-justo-alli-aislado-en-blanco-akadnw.jpg'>
+    <box top='237' left='47' width='296' height='311'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\loiou.jpg'>
+    <box top='30' left='428' width='334' height='377'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\male-palm-hand-gesture-isolated-white-background-man-s-make-stop-symbol-45644070.jpg'>
+    <box top='152' left='483' width='261' height='300'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\palm-de-b74cpd.jpg'>
+    <box top='119' left='197' width='458' height='463'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\serious-young-man-showing-stop-hand-gesture-isolated-on-gray-wall-HH0KF0.jpg'>
+    <box top='392' left='417' width='128' height='136'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\stop-hand-gesture-business-woman-260nw-99094745.jpg'>
+    <box top='96' left='241' width='50' height='62'>
+      <label>hand</label>
+    </box>
+    <box top='86' left='56' width='50' height='61'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\un-segnali-schoolchild-fermo-con-la-mano-alzata-essa-chiede-la-parola-stop-la-profondita-di-campo-ritratto-mezza-figura-kyyhmy.jpg'>
+    <box top='97' left='756' width='150' height='186'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\videoblocks-confident-business-people-smiling-make-stop-hand-gesture-please-stay-away-sign_rh7yxutxz_thumbnail-full06.png'>
+    <box top='199' left='810' width='228' height='236'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\áèçíåñìåí-çà-åðæèâàÿ-æåñò-ðóêîé-à-îíè-ñòîïà-45452236.jpg'>
+    <box top='122' left='768' width='292' height='288'>
+      <label>hand</label>
+    </box>
+  </image>
+</images>
+</dataset>

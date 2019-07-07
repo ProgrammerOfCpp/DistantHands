@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='images\1543609546.jpg'>
+    <box top='118' left='105' width='60' height='66'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609547.jpg'>
+    <box top='17' left='220' width='65' height='72'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609549.jpg'>
+    <box top='197' left='184' width='118' height='120'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609550.jpg'>
+    <box top='44' left='20' width='126' height='133'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609560.jpg'>
+    <box top='318' left='379' width='105' height='116'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609563.jpg'>
+    <box top='318' left='241' width='102' height='108'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1543609566.jpg'>
+    <box top='145' left='460' width='107' height='112'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472880.jpg'>
+    <box top='234' left='437' width='76' height='84'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472881.jpg'>
+    <box top='70' left='539' width='71' height='71'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472882.jpg'>
+    <box top='85' left='72' width='75' height='84'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472883.jpg'>
+    <box top='312' left='65' width='78' height='86'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472888.jpg'>
+    <box top='97' left='402' width='41' height='41'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472890.jpg'>
+    <box top='286' left='537' width='48' height='54'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472893.jpg'>
+    <box top='261' left='188' width='55' height='57'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472894.jpg'>
+    <box top='52' left='35' width='58' height='63'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472896.jpg'>
+    <box top='187' left='587' width='52' height='60'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472897.jpg'>
+    <box top='84' left='526' width='46' height='51'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472903.jpg'>
+    <box top='11' left='506' width='31' height='34'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472904.jpg'>
+    <box top='308' left='487' width='31' height='30'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472905.jpg'>
+    <box top='295' left='344' width='32' height='40'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472906.jpg'>
+    <box top='170' left='337' width='31' height='38'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472907.jpg'>
+    <box top='45' left='256' width='29' height='33'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472909.jpg'>
+    <box top='3' left='75' width='36' height='42'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547472910.jpg'>
+    <box top='298' left='68' width='40' height='45'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474561.jpg'>
+    <box top='213' left='419' width='91' height='109'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474562.jpg'>
+    <box top='73' left='89' width='90' height='116'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474563.jpg'>
+    <box top='302' left='47' width='100' height='117'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474564.jpg'>
+    <box top='103' left='44' width='96' height='116'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474566.jpg'>
+    <box top='188' left='71' width='53' height='59'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547474567.jpg'>
+    <box top='82' left='7' width='56' height='64'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479589.jpg'>
+    <box top='246' left='67' width='125' height='140'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479590.jpg'>
+    <box top='137' left='107' width='111' height='124'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479591.jpg'>
+    <box top='68' left='266' width='113' height='141'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479592.jpg'>
+    <box top='46' left='282' width='129' height='149'>
+      <label>hand</label>
+    </box>
+  </image>
+  <image file='images\1547479593.jpg'>
+    <box top='32' left='15' width='135' height='149'>
+      <label>hand</label>
+    </box>
+  </image>
+</images>
+</dataset>
